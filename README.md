@@ -1,6 +1,4 @@
-# airbnb_nyc_analysis
-Analysis for Airbnb Homebuyers in NYC
-
+# Home buyer’s guide to Airbnb: NYC
 In the interest of exploring the potential for purchasing a condo in NYC, I dug into Airbnb's datasets listings & reviews datasets for the last 4 years (2015-2019) to better understand:
 1. Overall Market (trends, average prices, segments)
 2. Potential Neighborhoods (which neighborhoods is best?)
