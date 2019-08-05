@@ -22,7 +22,7 @@ To run the scripts in the Jupyter notebooks, you will only require the Anaconda 
 There are 5 notebooks that comprise this analysis:
 1. [Airbnb NYC Data Exploration.ipynb](https://github.com/nickbae91/airbnb_nyc_analysis/blob/master/Airbnb%20NYC%20Data%20Exploration.ipynb): The bulk of our analysis
 2. [Calendar - Booking Rate.ipynb](https://github.com/nickbae91/airbnb_nyc_analysis/blob/master/Calendar%20-%20Booking%20Rate.ipynb): Data mining to generate the average monthly booking rates for each listing in 2018-2019.
-3. [Alternative Models.ipynb](https://github.com/nickbae91/airbnb_nyc_analysis/blob/master/Model%20Variation%20-%20Lasso.ipynb): Work to test alternative modelling options (Lasso, Ridge, Decision Trees)
+3. [Alternative Models.ipynb](https://github.com/nickbae91/airbnb_nyc_analysis/blob/master/Alternative%20Models.ipynb): Work to test alternative modelling options (Lasso, Ridge, Decision Trees)
 4. [Listings Time Series.ipynb](https://github.com/nickbae91/airbnb_nyc_analysis/blob/master/Listings%20Time%20Series.ipynb): Time series plot of # of listings (NYC & by region).
 5. [Reviews Time Series.ipynb](https://github.com/nickbae91/airbnb_nyc_analysis/blob/master/Reviews%20Time%20Series.ipynb): Time series plot of # of reviews (NYC & by region).
 
